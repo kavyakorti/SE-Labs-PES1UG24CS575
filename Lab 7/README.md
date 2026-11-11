@@ -6,7 +6,7 @@
 
 ## 
 
-## The original Lab 6 and Lab 7 source repository is available here:
+## The original Lab 6 and Lab 7 source repository is available here:https://github.com/SETAPESU26/L6_L7_26_loan_eligibility
 
 ## 
 
