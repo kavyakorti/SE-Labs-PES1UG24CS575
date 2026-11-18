@@ -24,7 +24,7 @@ The purpose of this repository is to maintain all laboratory work in an organize
 | `Lab5/` | Laboratory 5 exercises and submissions |
 | `Lab6/` | Laboratory 6 exercises and submissions |
 | `Lab7/` | Laboratory 7 exercises and submissions |
-| 'Lab7/' | Laboratory 7 exercises and submissions |
+| `Submission_Dates.txt/` | Submission schedule |
 ## Contents
 
 - Laboratory assignments and practical implementations
